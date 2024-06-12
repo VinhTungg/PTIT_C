@@ -1,7 +1,11 @@
 #include <stdio.h>
 
 int main(){
-	int n;
+	int t;
+	scanf("%d",&t);
+	while(t--){
+	long long n;
 	scanf("%d",&n);
-	printf("%lld",2*n);
+	printf("%lld\n",n*n);
+	}
 }
