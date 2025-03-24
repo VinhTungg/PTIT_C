@@ -1,4 +1,4 @@
-# ĐỀ BÀI: CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT
+# ĐỀ BÀI: TIN HỌC CƠ SỞ 2
 
 ## KIỂU DỮ LIỆU VÀ PHÉP TOÁN
 
