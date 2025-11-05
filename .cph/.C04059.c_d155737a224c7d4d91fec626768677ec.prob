@@ -1,0 +1,1 @@
+{"name":"Local: C04059","url":"c:\\Users\\ADMIN\\OneDrive\\Documents\\Code\\PTIT_C\\C04059.c","tests":[{"id":1762335356948,"input":"1\n1 10","output":"1 1 2 3 5 8 13 21 34 55"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ADMIN\\OneDrive\\Documents\\Code\\PTIT_C\\C04059.c","group":"local","local":true}
